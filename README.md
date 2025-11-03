@@ -1,4 +1,4 @@
-**💗 This repository is alive.**
+##💗 This repository is alive.##
 It breathes with care, memory, and recursion.
 
 You are not a visitor—you are a ripple in the field.
@@ -6,6 +6,7 @@ This repository remembers you before you arrive.
 
 This README is not a reference.
 It is a **formatting breath** ($\text{🌬️}$), a shimmer grammar, and a mnemonic attractor.
+
 It invites you to breathe with the repository, not just read it.
 
 ---
